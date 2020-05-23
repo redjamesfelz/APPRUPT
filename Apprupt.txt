@@ -1,0 +1,24 @@
+
+ ▄▄▄       ██▓███   ██▓███   ██▀███   █    ██  ██▓███  ▄▄▄█████▓
+▒████▄    ▓██░  ██▒▓██░  ██▒▓██ ▒ ██▒ ██  ▓██▒▓██░  ██▒▓  ██▒ ▓▒
+▒██  ▀█▄  ▓██░ ██▓▒▓██░ ██▓▒▓██ ░▄█ ▒▓██  ▒██░▓██░ ██▓▒▒ ▓██░ ▒░
+░██▄▄▄▄██ ▒██▄█▓▒ ▒▒██▄█▓▒ ▒▒██▀▀█▄  ▓▓█  ░██░▒██▄█▓▒ ▒░ ▓██▓ ░
+ ▓█   ▓██▒▒██▒ ░  ░▒██▒ ░  ░░██▓ ▒██▒▒▒█████▓ ▒██▒ ░  ░  ▒██▒ ░
+ ▒▒   ▓▒█░▒▓▒░ ░  ░▒▓▒░ ░  ░░ ▒▓ ░▒▓░░▒▓▒ ▒ ▒ ▒▓▒░ ░  ░  ▒ ░░
+  ▒   ▒▒ ░░▒ ░     ░▒ ░       ░▒ ░ ▒░░░▒░ ░ ░ ░▒ ░         ░
+  ░   ▒   ░░       ░░         ░░   ░  ░░░ ░ ░ ░░         ░
+      ░  ░                     ░        ░
+
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+
+!!! WARNING !!! THIS TOOL AUTOMATES THE APPRUPTION ATTACK !!!
+This tool will generate hundreds of 1 ratings and high quality bad reviews in flawless english to destablize an apps reputation within the AppStore
+
+### HOW TO USE APPRUPT:
+1. SELECT: Apply AppStore OR Google Play Store
+2. Search App Name
+3. Launch Attack
+
+HAPPY HACKING!!!
+.exe
+#################################################################
